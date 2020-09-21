@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097565570065",
+    "firebase_url": "https://crm-babu.firebaseio.com",
+    "project_id": "crm-babu",
+    "storage_bucket": "crm-babu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097565570065:android:e4cc99681eac35e50f5db0",
+        "android_client_info": {
+          "package_name": "com.crmbabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097565570065-hgdufo9q69rs66e15ms2b882me8isbq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3IVfLMR4rhAcjyUA_E3wr9cwwHhRfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097565570065-hgdufo9q69rs66e15ms2b882me8isbq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
